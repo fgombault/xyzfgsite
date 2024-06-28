@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Stef</title>
-    <link href="https://foobar.com/feed.xml" rel="self" />
-    <link href="https://foobar.com" />
+    <link href="https://xyzfgsite.pages.dev/feed.xml" rel="self" />
+    <link href="https://xyzfgsite.pages.dev" />
     <updated>2024-06-28T17:55:39+02:00</updated>
     <author>
         <name>Stef</name>
     </author>
-    <id>https://foobar.com</id>
+    <id>https://xyzfgsite.pages.dev</id>
 
     <entry>
         <title>This is Markdown</title>
         <author>
             <name>Stef</name>
         </author>
-        <link href="https://foobar.com/this-is-markdown.html"/>
-        <id>https://foobar.com/this-is-markdown.html</id>
+        <link href="https://xyzfgsite.pages.dev/this-is-markdown.html"/>
+        <id>https://xyzfgsite.pages.dev/this-is-markdown.html</id>
 
         <updated>2024-06-28T17:55:39+02:00</updated>
             <summary>
@@ -43,8 +43,8 @@
         <author>
             <name>Stef</name>
         </author>
-        <link href="https://foobar.com/je-fais-un-site-web.html"/>
-        <id>https://foobar.com/je-fais-un-site-web.html</id>
+        <link href="https://xyzfgsite.pages.dev/je-fais-un-site-web.html"/>
+        <id>https://xyzfgsite.pages.dev/je-fais-un-site-web.html</id>
 
         <updated>2024-06-28T17:43:33+02:00</updated>
             <summary>
@@ -55,7 +55,7 @@
         <content type="html">
             <![CDATA[
                 <p>Et c'est merveilleux</p>
-<figure class="post__image"><img loading="lazy"  src="https://foobar.com/media/posts/1/2019-01-01_13-55-18.jpg" alt="" width="1080" height="1920" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://foobar.com/media/posts/1/responsive/2019-01-01_13-55-18-xs.jpg 384w ,https://foobar.com/media/posts/1/responsive/2019-01-01_13-55-18-sm.jpg 600w ,https://foobar.com/media/posts/1/responsive/2019-01-01_13-55-18-md.jpg 768w ,https://foobar.com/media/posts/1/responsive/2019-01-01_13-55-18-lg.jpg 1200w ,https://foobar.com/media/posts/1/responsive/2019-01-01_13-55-18-xl.jpg 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://xyzfgsite.pages.dev/media/posts/1/2019-01-01_13-55-18.jpg" alt="" width="1080" height="1920" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://xyzfgsite.pages.dev/media/posts/1/responsive/2019-01-01_13-55-18-xs.jpg 384w ,https://xyzfgsite.pages.dev/media/posts/1/responsive/2019-01-01_13-55-18-sm.jpg 600w ,https://xyzfgsite.pages.dev/media/posts/1/responsive/2019-01-01_13-55-18-md.jpg 768w ,https://xyzfgsite.pages.dev/media/posts/1/responsive/2019-01-01_13-55-18-lg.jpg 1200w ,https://xyzfgsite.pages.dev/media/posts/1/responsive/2019-01-01_13-55-18-xl.jpg 1600w"></figure>
             ]]>
         </content>
     </entry>
