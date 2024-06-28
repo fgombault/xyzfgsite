@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://foobar.com/sitemap.xml

@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Stef",
+    "description": "",
+    "home_page_url": "https://foobar.com",
+    "feed_url": "https://foobar.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Stef"
+    },
+    "items": [
+        {
+            "id": "https://foobar.com/this-is-markdown.html",
+            "url": "https://foobar.com/this-is-markdown.html",
+            "title": "This is Markdown",
+            "summary": "I’m happy about markdown this is cool Very cool end is this a quote now?",
+            "content_html": "<h1 id=\"im-happy-about-markdown\">I’m happy about markdown</h1>\n<ol>\n<li>this is cool</li>\n<li>Very cool</li>\n<li>end</li>\n</ol>\n<blockquote>\n<p>is this a quote now?</p>\n</blockquote>\n",
+            "author": {
+                "name": "Stef"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-06-28T17:55:39+02:00",
+            "date_modified": "2024-06-28T17:55:39+02:00"
+        },
+        {
+            "id": "https://foobar.com/je-fais-un-site-web.html",
+            "url": "https://foobar.com/je-fais-un-site-web.html",
+            "title": "Je fais un site web",
+            "summary": "Et c'est merveilleux",
+            "content_html": "<p>Et c'est merveilleux</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://foobar.com/media/posts/1/2019-01-01_13-55-18.jpg\" alt=\"\" width=\"1080\" height=\"1920\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://foobar.com/media/posts/1/responsive/2019-01-01_13-55-18-xs.jpg 384w ,https://foobar.com/media/posts/1/responsive/2019-01-01_13-55-18-sm.jpg 600w ,https://foobar.com/media/posts/1/responsive/2019-01-01_13-55-18-md.jpg 768w ,https://foobar.com/media/posts/1/responsive/2019-01-01_13-55-18-lg.jpg 1200w ,https://foobar.com/media/posts/1/responsive/2019-01-01_13-55-18-xl.jpg 1600w\"></figure>",
+            "author": {
+                "name": "Stef"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-06-28T10:41:22+02:00",
+            "date_modified": "2024-06-28T17:43:33+02:00"
+        }
+    ]
+}
